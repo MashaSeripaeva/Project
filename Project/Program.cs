@@ -1,2 +1,3 @@
-﻿
-Console.WriteLine("jjdnfnnjdn");
+﻿using Project;
+
+Programm1.main();
